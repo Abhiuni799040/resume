@@ -1,0 +1,13 @@
+
+
+hr {
+    border:none;
+    height: 2px;
+    background-color: aliceblue;
+}
+
+ul {
+    color:#3B3E3D;
+    list-style-type: square;
+    
+}
